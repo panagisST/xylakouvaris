@@ -1,2 +1,0 @@
-# xylakouvaris
-Created with CodeSandbox
